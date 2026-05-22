@@ -1,4 +1,4 @@
-# touch_head - 摸头杀插件
+# astrbot_plugin_pt - 摸头杀插件
 
 AstrBot 摸头杀插件 - 当用户拍机器人时自动生成并发送摸头GIF动图。
 
